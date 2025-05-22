@@ -38,7 +38,7 @@
 ## 💻 Sobre o projeto
 
 <!-- EXPLICA O MOTIVO DO PROJETO -->
-Conselhos-project é um projeto desenvolvido com base em um protótipo do Figma, com o objetivo de aplicar e consolidar os conhecimentos adquiridos em HTML, CSS e JavaScript.
+Conselhos-project é um projeto com o objetivo de aplicar e consolidar os conhecimentos adquiridos em HTML, CSS e JavaScript.
 
 
 
@@ -71,7 +71,6 @@ Você também pode acessar clicando nesse link do Github Pages:
 
 #### **Front-End**  ([HTML](https://html.com/)) 
 #### **Estilização** ([CSS](https://css.com/))
-#### **Prototipo** ([Figma](https://www.figma.com/))
 
 ## ⚙ Ferramentas: 
 
